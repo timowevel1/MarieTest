@@ -1,0 +1,13 @@
+.Table {
+    height: 75vh;
+    width: 90vw;
+    margin: 5vh;
+    padding: 2vw;
+    -moz-box-shadow: 0 0 3px #ccc;
+    -webkit-box-shadow: 0 0 3px #ccc;
+    box-shadow: 0 0 5px #ccc;
+}
+
+.mariesdiv{
+    background-color: blanchedalmond;
+}
